@@ -2,7 +2,7 @@
 	"Feed": "Feed",
 	"You have exceeded the amount of requests that are allowed per minute for your IP address. This limit is in place to prevent the server from being overloaded and to protect the server from attacks. We're really sorry for the inconvenience, please try again in a minute.": "You have exceeded the amount of requests that are allowed per minute for your IP address. This limit is in place to prevent the server from being overloaded and to protect the server from attacks. We're really sorry for the inconvenience, please try again in a minute.",
 	"An error occurred searching the database for site alerts. Please try again later.": "An error occurred searching the database for site alerts. Please try again later.",
-	"Internal Error": "Internal Error",
+	"Internal Error": "Interne Fout",
 	"An error occurred searching the database for your information. Please try again later.": "An error occurred searching the database for your information. Please try again later.",
 	"An error occurred getting your post mentions. Please try again later.": "An error occurred getting your post mentions. Please try again later.",
 	"An error occurred getting your comment mentions. Please try again later.": "An error occurred getting your comment mentions. Please try again later.",
